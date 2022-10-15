@@ -1,0 +1,22 @@
+#main_window
+{
+    /* background-color: #303A37; */
+    background-color: black;
+}
+
+#bubble
+{
+    background-color: #232E2B;
+    min-width: 800px;
+    max-width: 800px;
+    min-height: 300px;
+    max-height: 300px;
+    border-radius: 20px;
+}
+
+#bubble_heading
+{
+    color: white;
+    font-weight: bold;
+    font-size: 20px; 
+}
